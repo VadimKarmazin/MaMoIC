@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
 
 # Запрос количества критериев у пользователя
 num_criteria = int(input("Введите количество критериев: "))
